@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\HelloAgain\bin\Debug\net7.0\HelloAgain.exe
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\HelloAgain\bin\Debug\net7.0\HelloAgain.deps.json
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\HelloAgain\bin\Debug\net7.0\HelloAgain.runtimeconfig.json
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\HelloAgain\bin\Debug\net7.0\HelloAgain.dll
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\HelloAgain\bin\Debug\net7.0\HelloAgain.pdb
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\HelloAgain\obj\Debug\net7.0\HelloAgain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\HelloAgain\obj\Debug\net7.0\HelloAgain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\HelloAgain\obj\Debug\net7.0\HelloAgain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\HelloAgain\obj\Debug\net7.0\HelloAgain.AssemblyInfo.cs
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\HelloAgain\obj\Debug\net7.0\HelloAgain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\HelloAgain\obj\Debug\net7.0\HelloAgain.dll
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\HelloAgain\obj\Debug\net7.0\refint\HelloAgain.dll
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\HelloAgain\obj\Debug\net7.0\HelloAgain.pdb
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\HelloAgain\obj\Debug\net7.0\HelloAgain.genruntimeconfig.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\HelloAgain\obj\Debug\net7.0\ref\HelloAgain.dll
