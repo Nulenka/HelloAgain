@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Seminar_C#\bin\Debug\net7.0\Seminar_C#.exe
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Seminar_C#\bin\Debug\net7.0\Seminar_C#.deps.json
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Seminar_C#\bin\Debug\net7.0\Seminar_C#.runtimeconfig.json
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Seminar_C#\bin\Debug\net7.0\Seminar_C#.dll
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Seminar_C#\bin\Debug\net7.0\Seminar_C#.pdb
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Seminar_C#\obj\Debug\net7.0\Seminar_C#.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Seminar_C#\obj\Debug\net7.0\Seminar_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Seminar_C#\obj\Debug\net7.0\Seminar_C#.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Seminar_C#\obj\Debug\net7.0\Seminar_C#.AssemblyInfo.cs
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Seminar_C#\obj\Debug\net7.0\Seminar_C#.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Seminar_C#\obj\Debug\net7.0\Seminar_C#.dll
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Seminar_C#\obj\Debug\net7.0\refint\Seminar_C#.dll
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Seminar_C#\obj\Debug\net7.0\Seminar_C#.pdb
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Seminar_C#\obj\Debug\net7.0\Seminar_C#.genruntimeconfig.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Seminar_C#\obj\Debug\net7.0\ref\Seminar_C#.dll
