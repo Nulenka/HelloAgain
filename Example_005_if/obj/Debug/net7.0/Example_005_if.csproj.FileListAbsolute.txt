@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_005_if\obj\Debug\net7.0\Example_005_if.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_005_if\obj\Debug\net7.0\Example_005_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_005_if\obj\Debug\net7.0\Example_005_if.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_005_if\obj\Debug\net7.0\Example_005_if.AssemblyInfo.cs
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_005_if\obj\Debug\net7.0\Example_005_if.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_005_if\bin\Debug\net7.0\Example_005_if.exe
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_005_if\bin\Debug\net7.0\Example_005_if.deps.json
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_005_if\bin\Debug\net7.0\Example_005_if.runtimeconfig.json
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_005_if\bin\Debug\net7.0\Example_005_if.dll
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_005_if\bin\Debug\net7.0\Example_005_if.pdb
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_005_if\obj\Debug\net7.0\Example_005_if.dll
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_005_if\obj\Debug\net7.0\refint\Example_005_if.dll
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_005_if\obj\Debug\net7.0\Example_005_if.pdb
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_005_if\obj\Debug\net7.0\Example_005_if.genruntimeconfig.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_005_if\obj\Debug\net7.0\ref\Example_005_if.dll
