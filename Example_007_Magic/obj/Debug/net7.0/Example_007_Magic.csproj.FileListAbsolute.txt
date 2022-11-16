@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_007_Magic\bin\Debug\net7.0\Example_007_Magic.exe
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_007_Magic\bin\Debug\net7.0\Example_007_Magic.deps.json
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_007_Magic\bin\Debug\net7.0\Example_007_Magic.runtimeconfig.json
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_007_Magic\bin\Debug\net7.0\Example_007_Magic.dll
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_007_Magic\bin\Debug\net7.0\Example_007_Magic.pdb
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_007_Magic\obj\Debug\net7.0\Example_007_Magic.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_007_Magic\obj\Debug\net7.0\Example_007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_007_Magic\obj\Debug\net7.0\Example_007_Magic.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_007_Magic\obj\Debug\net7.0\Example_007_Magic.AssemblyInfo.cs
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_007_Magic\obj\Debug\net7.0\Example_007_Magic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_007_Magic\obj\Debug\net7.0\Example_007_Magic.dll
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_007_Magic\obj\Debug\net7.0\refint\Example_007_Magic.dll
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_007_Magic\obj\Debug\net7.0\Example_007_Magic.pdb
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_007_Magic\obj\Debug\net7.0\Example_007_Magic.genruntimeconfig.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_007_Magic\obj\Debug\net7.0\ref\Example_007_Magic.dll
