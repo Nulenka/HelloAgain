@@ -81,6 +81,31 @@ else
     Console.WriteLine("Have a nice day!");
 }
 
+//Вариант преподавателя
+
+Console.Write("Enter a number: ");
+string inp = Console.ReadLine();
+int Dnumber = Convert.ToInt32(inp);
+
+if(Dnumber == 1)
+{
+    Console.WriteLine("Monday");
+}
+else if(Dnumber == 2)
+{
+    Console.WriteLine("Tuesday");
+}
+else if(Dnumber == 3)
+{
+    Console.WriteLine("Wensday");
+}
+
+//...
+
+else
+{
+    Console.WriteLine("Have a nice day!");
+}
 
 //Prog for entered numbers to check if one is a*a (another)
 
