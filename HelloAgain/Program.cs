@@ -1,5 +1,6 @@
 ﻿Console.WriteLine("Hello, World! Again!");
 
+Console.WriteLine(" ");
 Console.WriteLine("Задача 2: Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее. a = 5; b = 7 -> max = 7; a = 2 b = 10 -> max = 10; a = -9 b = -3 -> max = -3");
 
 Console.Write("Enter a: ");
@@ -11,12 +12,12 @@ int max = a;
 if(a > max) max = a;
 if(b > max) max = b;
 
-Console.Write("max ->  ");
-Console.WriteLine(max);
-
 int min = b;
 if(a < min) min = a;
 if(b < min) min = b;
+
+Console.Write("max ->  ");
+Console.Write(max + "  ");
 
 Console.Write("min ->  ");
 Console.WriteLine(min);
@@ -47,17 +48,28 @@ int F = Convert.ToInt32(Console.ReadLine());
 
 if((F % 2) == 0)
 {
-    Console.WriteLine("Yes");
+    Console.WriteLine("Yes, it's an even number");
+    Console.WriteLine(" ");
 }
 else
 {
-        Console.WriteLine("No");
+        Console.WriteLine("No, it's not an even number");
         Console.WriteLine(" ");
 }
 
 
-//Задача 8: Напишите программу, которая на вход принимает число (N), а на выходе 
-//показывает все чётные числа от 1 до N.
+Console.WriteLine("Задача 8: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N. 5 -> 2, 4; 8 -> 2, 4, 6, 8.");
+Console.Write("Enter a number: ");
+int J = Convert.ToInt32(Console.ReadLine());
 
-//5 -> 2, 4
-//8 -> 2, 4, 6, 8
+int i = 2;
+while(i <= J)
+{
+    Console.Write(i + " ");
+    i += 2;
+}
+
+Console.WriteLine(" ");
+Console.WriteLine(" ");
+Console.WriteLine("Thanks for checking! Have a nice day!");
+Console.WriteLine(" ");
