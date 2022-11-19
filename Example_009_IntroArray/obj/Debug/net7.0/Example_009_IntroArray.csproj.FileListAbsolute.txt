@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_009_IntroArray\obj\Debug\net7.0\Example_009_IntroArray.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_009_IntroArray\obj\Debug\net7.0\Example_009_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_009_IntroArray\obj\Debug\net7.0\Example_009_IntroArray.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_009_IntroArray\obj\Debug\net7.0\Example_009_IntroArray.AssemblyInfo.cs
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_009_IntroArray\obj\Debug\net7.0\Example_009_IntroArray.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_009_IntroArray\bin\Debug\net7.0\Example_009_IntroArray.exe
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_009_IntroArray\bin\Debug\net7.0\Example_009_IntroArray.deps.json
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_009_IntroArray\bin\Debug\net7.0\Example_009_IntroArray.runtimeconfig.json
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_009_IntroArray\bin\Debug\net7.0\Example_009_IntroArray.dll
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_009_IntroArray\bin\Debug\net7.0\Example_009_IntroArray.pdb
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_009_IntroArray\obj\Debug\net7.0\Example_009_IntroArray.dll
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_009_IntroArray\obj\Debug\net7.0\refint\Example_009_IntroArray.dll
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_009_IntroArray\obj\Debug\net7.0\Example_009_IntroArray.pdb
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_009_IntroArray\obj\Debug\net7.0\Example_009_IntroArray.genruntimeconfig.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_009_IntroArray\obj\Debug\net7.0\ref\Example_009_IntroArray.dll
