@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Exampl_008_InroMethod\bin\Debug\net7.0\Exampl_008_InroMethod.exe
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Exampl_008_InroMethod\bin\Debug\net7.0\Exampl_008_InroMethod.deps.json
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Exampl_008_InroMethod\bin\Debug\net7.0\Exampl_008_InroMethod.runtimeconfig.json
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Exampl_008_InroMethod\bin\Debug\net7.0\Exampl_008_InroMethod.dll
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Exampl_008_InroMethod\bin\Debug\net7.0\Exampl_008_InroMethod.pdb
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Exampl_008_InroMethod\obj\Debug\net7.0\Exampl_008_InroMethod.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Exampl_008_InroMethod\obj\Debug\net7.0\Exampl_008_InroMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Exampl_008_InroMethod\obj\Debug\net7.0\Exampl_008_InroMethod.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Exampl_008_InroMethod\obj\Debug\net7.0\Exampl_008_InroMethod.AssemblyInfo.cs
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Exampl_008_InroMethod\obj\Debug\net7.0\Exampl_008_InroMethod.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Exampl_008_InroMethod\obj\Debug\net7.0\Exampl_008_InroMethod.dll
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Exampl_008_InroMethod\obj\Debug\net7.0\refint\Exampl_008_InroMethod.dll
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Exampl_008_InroMethod\obj\Debug\net7.0\Exampl_008_InroMethod.pdb
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Exampl_008_InroMethod\obj\Debug\net7.0\Exampl_008_InroMethod.genruntimeconfig.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Exampl_008_InroMethod\obj\Debug\net7.0\ref\Exampl_008_InroMethod.dll
