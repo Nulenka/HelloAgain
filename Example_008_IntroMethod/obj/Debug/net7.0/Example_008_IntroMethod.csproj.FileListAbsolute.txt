@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_008_IntroMethod\obj\Debug\net7.0\Example_008_IntroMethod.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_008_IntroMethod\obj\Debug\net7.0\Example_008_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_008_IntroMethod\obj\Debug\net7.0\Example_008_IntroMethod.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_008_IntroMethod\obj\Debug\net7.0\Example_008_IntroMethod.AssemblyInfo.cs
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_008_IntroMethod\obj\Debug\net7.0\Example_008_IntroMethod.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_008_IntroMethod\bin\Debug\net7.0\Example_008_IntroMethod.exe
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_008_IntroMethod\bin\Debug\net7.0\Example_008_IntroMethod.deps.json
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_008_IntroMethod\bin\Debug\net7.0\Example_008_IntroMethod.runtimeconfig.json
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_008_IntroMethod\bin\Debug\net7.0\Example_008_IntroMethod.dll
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_008_IntroMethod\bin\Debug\net7.0\Example_008_IntroMethod.pdb
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_008_IntroMethod\obj\Debug\net7.0\Example_008_IntroMethod.dll
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_008_IntroMethod\obj\Debug\net7.0\refint\Example_008_IntroMethod.dll
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_008_IntroMethod\obj\Debug\net7.0\Example_008_IntroMethod.pdb
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_008_IntroMethod\obj\Debug\net7.0\Example_008_IntroMethod.genruntimeconfig.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_008_IntroMethod\obj\Debug\net7.0\ref\Example_008_IntroMethod.dll
