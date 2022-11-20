@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_011_ArrayLibruary\bin\Debug\net7.0\Example_011_ArrayLibruary.exe
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_011_ArrayLibruary\bin\Debug\net7.0\Example_011_ArrayLibruary.deps.json
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_011_ArrayLibruary\bin\Debug\net7.0\Example_011_ArrayLibruary.runtimeconfig.json
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_011_ArrayLibruary\bin\Debug\net7.0\Example_011_ArrayLibruary.dll
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_011_ArrayLibruary\bin\Debug\net7.0\Example_011_ArrayLibruary.pdb
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_011_ArrayLibruary\obj\Debug\net7.0\Example_011_ArrayLibruary.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_011_ArrayLibruary\obj\Debug\net7.0\Example_011_ArrayLibruary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_011_ArrayLibruary\obj\Debug\net7.0\Example_011_ArrayLibruary.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_011_ArrayLibruary\obj\Debug\net7.0\Example_011_ArrayLibruary.AssemblyInfo.cs
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_011_ArrayLibruary\obj\Debug\net7.0\Example_011_ArrayLibruary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_011_ArrayLibruary\obj\Debug\net7.0\Example_011_ArrayLibruary.dll
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_011_ArrayLibruary\obj\Debug\net7.0\refint\Example_011_ArrayLibruary.dll
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_011_ArrayLibruary\obj\Debug\net7.0\Example_011_ArrayLibruary.pdb
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_011_ArrayLibruary\obj\Debug\net7.0\Example_011_ArrayLibruary.genruntimeconfig.cache
+C:\Users\User\Desktop\B.N.V\GeekBrain\C#\Repo\ExamplesAgain\Example_011_ArrayLibruary\obj\Debug\net7.0\ref\Example_011_ArrayLibruary.dll
