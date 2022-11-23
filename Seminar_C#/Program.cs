@@ -124,3 +124,24 @@ else
 {
     Console.WriteLine("No");
 }
+
+Console.WriteLine("Напишите прогу, на вход одно число (N), выход - все целые числа от -N до N. 4-> -4, -3, -2, -1, 0, 1, 2, 3, 4");
+Console.WriteLine("Enter the number");
+int number = Convert.ToInt32(Console.ReadLine());
+
+int negaiveNumber = - number;
+
+while(negaiveNumber <= number)
+{
+    Console.Write(negaiveNumber + " ");
+    negaiveNumber++;
+}
+Console.WriteLine(" ");
+
+Console.WriteLine("Напишите прогу, на вход трехзначное число. выход - последнюю цифру числа. 456 - 6, 918-8");
+Console.WriteLine("Enter a three-digit number: ");
+int threeDigitNumber = Convert.ToInt32(Console.ReadLine());
+
+int lastDigit = threeDigitNumber % 10;
+Console.WriteLine(lastDigit);
+Console.WriteLine(" ");
