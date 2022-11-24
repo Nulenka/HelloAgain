@@ -113,3 +113,27 @@ Console.WriteLine(" ");
 
 
 Console.WriteLine("Прогу: вход - число (N), выход - таблицу квадратов чисел от 1 до N.");
+int n = ReadInt3("Enter a number: ");
+int i = 1;
+while(i <= n)
+{
+    Console.Write(i * i + " ");
+    i++;
+}
+
+// ИЛИ:
+//while(i <= n)
+//{
+//    Console.Write(Pow(i++) + " ");
+//}
+//int Pow(int a)
+//{
+//    return a * a;
+//}
+
+int ReadInt3(string message)
+{
+    Console.Write(message);
+    return Convert.ToInt32(Console.ReadLine());
+}
+Console.WriteLine(" ");
