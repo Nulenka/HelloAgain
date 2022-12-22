@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Sem_009_C#/1.0.0": {
+        "runtime": {
+          "Sem_009_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sem_009_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
